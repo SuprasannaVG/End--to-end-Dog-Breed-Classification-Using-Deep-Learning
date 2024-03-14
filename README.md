@@ -7,7 +7,9 @@ This project tackles the complex task of multiclass dog breed identification usi
 # DataSet Used:
 The Kaggle dataset offers a comprehensive collection of dog images spanning various breeds, providing a rich source of training and testing data. With thousands of labeled images, it enables the development of a highly accurate and generalized model for breed identification.
 
-
+![Screenshot 2024-03-14 195121](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/85a6657c-44c0-4a1a-a886-7d9222ab6bad)
+![Screenshot 2024-03-14 195156](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/774d1891-0fe0-44b1-9b6c-2df5c09b51f0)
+![WhatsApp Image 2024-03-14 at 20 00 45_ad90c6dd](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/821e065b-c5d3-4719-9991-97d4686f6c3f)
 # Implementation :
 
 1. Data Preprocessing: The project begins with data preprocessing, involving tasks such as image resizing, normalization, and augmentation to prepare the dataset for training.
