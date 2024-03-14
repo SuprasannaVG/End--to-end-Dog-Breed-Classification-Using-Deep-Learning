@@ -12,7 +12,7 @@ The Kaggle dataset offers a comprehensive collection of dog images spanning vari
 
 1. Data Preprocessing: The project begins with data preprocessing, involving tasks such as image resizing, normalization, and augmentation to prepare the dataset for training.
 
-  ![![Uploading WhatsApp Image 2024-03-14 at 20.00.45_e1cce2b1.jpg…]()
+ ![![WhatsApp Image 2024-03-14 at 20 00 45_e1cce2b1](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/7f026108-4ee9-4346-aef5-1ff32b6ce51b)
 
 3. Batch Creation: Batches of images are created to facilitate efficient training of the deep learning model. This involves grouping images into manageable batches to feed into the model during training.
 
