@@ -16,7 +16,9 @@ The Kaggle dataset offers a comprehensive collection of dog images spanning vari
 
  ![![WhatsApp Image 2024-03-14 at 20 00 45_e1cce2b1](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/7f026108-4ee9-4346-aef5-1ff32b6ce51b)
 
-2. Batch Creation: Batches of images are created to facilitate efficient training of the deep learning model. This involves grouping images into manageable batches to feed into the model during training.
+2. Batch Creation: Batches of images are created to facilitate efficient training of the deep learning model. This involves grouping images into manageable batches to feed into the model during training
+
+  ![WhatsApp Image 2024-03-14 at 20 00 45_ad90c6dd](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/821e065b-c5d3-4719-9991-97d4686f6c3f)
 
 3. TensorFlow Integration: TensorFlow, a powerful deep learning framework, is utilized for building, training, and evaluating the CNN model for dog breed identification.
 
@@ -25,8 +27,7 @@ The Kaggle dataset offers a comprehensive collection of dog images spanning vari
 5. Data Augmentation: Data augmentation techniques such as rotation, flipping, and zooming are applied to artificially increase the diversity of the training dataset, improving the model's generalization capability.
 
 6. Callbacks: Callbacks are implemented to monitor the model's performance during training, including early stopping to prevent overfitting and learning rate adjustments for optimization.
-     ![Screenshot 2024-03-14 195156](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/774d1891-0fe0-44b1-9b6c-2df5c09b51f0)
-
+    
 7. Training and Validation: The dataset is split into training and validation sets, with the model trained on the training set and validated on the validation set to assess its performance.
 
 8. Model Evaluation: The trained model is evaluated using various metrics such as accuracy, precision, recall, and F1-score to measure its effectiveness in breed identification.
@@ -34,8 +35,9 @@ The Kaggle dataset offers a comprehensive collection of dog images spanning vari
     ![Screenshot 2024-03-14 195121](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/85a6657c-44c0-4a1a-a886-7d9222ab6bad)
 
 9. Making Predictions on Custom Images: Once trained, the model is capable of making predictions on custom images of dog breeds, allowing users to identify breeds from their own images.
+     ![Screenshot 2024-03-14 195156](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/774d1891-0fe0-44b1-9b6c-2df5c09b51f0)
 
-  ![WhatsApp Image 2024-03-14 at 20 00 45_ad90c6dd](https://github.com/SuprasannaVG/End-to-end-Multi-Class-Dog-Breed-Identification-Using-Deep-Learning/assets/125822020/821e065b-c5d3-4719-9991-97d4686f6c3f)
+ 
 
 10. Deployment and Visualization: The trained model can be deployed as a web application or integrated into other platforms for real-time breed identification. Additionally, the project may include visualization techniques to display model performance metrics and predictions in an interpretable format.
 
